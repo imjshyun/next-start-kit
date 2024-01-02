@@ -1,4 +1,4 @@
-import { Inter } from 'next/font/google'
+import { Inter } from 'next/font/google' // nextjs font package에서 Inter폰트 가져와 사용
 import './globals.css'
 
 const inter = Inter({ subsets: ['latin'] })
